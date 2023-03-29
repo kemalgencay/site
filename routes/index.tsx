@@ -18,7 +18,7 @@ export default function Home() {
           <p class="my-6">
             <p>
 
-              Ben Kemal, 1967'den beri <i>computer* </i>üstünde yenilikleri izliyor ve uyguluyorum.</p>
+              Ben Kemal, 1967'den beri <i>computer* </i>üstünde yenilikleri izliyor ve uyguluyorum.</p><br></br>
 
             <p>
               Çeşitli konulardaki görüşlerimi, deneyimlerimi, özlü sözleri, burada paylaşmaktayım. Çizgim Atatürk
