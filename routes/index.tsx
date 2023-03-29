@@ -22,7 +22,7 @@ export default function Home() {
 
             <p>
               Çeşitli konulardaki görüşlerimi, deneyimlerimi, özlü sözleri, burada paylaşmaktayım. Çizgim Atatürk
-              çizgisidir, ikinci vazifemiz devrimleri Anadolu'ya yaymaktır.
+              çizgisidir, ikinci vazifemiz devrimleri Anadolu'ya yaymaktır.<br></br><br></br><br></br>
             </p>
             <p> *bilgisayar değil, bilgi soyuttur sayılamaz.</p>
           </p>
