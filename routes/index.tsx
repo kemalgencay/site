@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sitem</title>
+        <title>Kemal Gençay'ın sitesi</title>
       </Head>
       <Layout>
         <div class="p-4 mx-auto max-w-screen-md">
