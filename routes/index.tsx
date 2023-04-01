@@ -26,12 +26,12 @@ export default function Home() {
             </p>
             <p> *bilgisayar değil, bilgi soyuttur sayılamaz.</p>
           </p>
+          <img
+            src="/ogrenmek.jpg"
+            class="w-50 h-32"
+            alt="öğrenmek"
+          />
         </div>
-        <img
-          src="/ogrenmek.jpg"
-          class="w-50 h-32"
-          alt="öğrenmek"
-        />
       </Layout >
     </>
   );
