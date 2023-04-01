@@ -11,7 +11,7 @@ export default function AboutPage() {
                         src="/eskiben.jpg"
                         class="w-50 h-32"
                         alt="Sakallı resmim"
-                    />
+                    /><br /><br />
                     <p>1944 yılında Ankara'da doğdum. İlk Orta Lise eğitimimi TED Ankara
                         Kolejinde tamamladım.A.Ü.Fen.Fak.Doğa Bilimlerinde okudum, 1970
                         yılında ODTÜ Elektrik Mühendisliğini bitirdim.Askerlik sonrası IBM
