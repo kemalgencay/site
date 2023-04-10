@@ -1,6 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
 import Layout from "../components/Layout.tsx";
-import Countdown from "../islands/Countdown.tsx";
 
 export default function Home() {
   return (
