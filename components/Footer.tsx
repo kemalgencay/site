@@ -1,9 +1,8 @@
 export function Footer() {
-    return (
-      <footer>
-        <hr class="my-2" />
-        <p>I am a footer</p>
-      </footer>
-    );
-  }
-  
+  return (
+    <footer>
+      <hr class="my-2" />
+      <p>Yakında...</p>
+    </footer>
+  );
+}
