@@ -1,3 +1,4 @@
+// deno-lint-ignore-file
 import { tw } from "twind";
 import { Footer } from "./Footer.tsx";
 
