@@ -11,6 +11,7 @@ export default function layouts({ children }: any) {
                 <a class='tw mx-4' href="/">Ana sayfa</a>
                 <a class='tw mx-4' href="/hakkimda">Hakkımda</a>
                 <a class='tw mx-4' href="https://kemalblog.com" target="blank">Yazılar</a>
+                <a class='tw mx-4' href="/sozler">Sözler/Düşünceler</a>
             </nav>
             {children}
             <Footer />
