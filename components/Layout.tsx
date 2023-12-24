@@ -1,6 +1,7 @@
+// deno-lint-ignore-file
 import { Footer } from "./Footer.tsx";
 
-export default function layouts({ children }) {
+export default function layouts({ children }: any) {
     return (
         <div>
             <img src="/header1.jpg" />
