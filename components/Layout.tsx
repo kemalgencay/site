@@ -1,5 +1,4 @@
 // deno-lint-ignore-file
-import { tw } from "twind";
 import { Footer } from "./Footer.tsx";
 
 export default function layouts({ children }: any) {
