@@ -1,6 +1,6 @@
 import { Footer } from "./Footer.tsx";
 
-export default function layouts({ children }: any) {
+export default function layouts({ children }) {
     return (
         <div>
             <img src="/header1.jpg" />
